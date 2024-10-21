@@ -16,7 +16,7 @@ Versiyon 1
 - Versionlar şeklinde proje takip edildiğinde projeler arasındaki farklar daha iyi anlaşılacaktır. İşlemlerimizi ilk etapta manuel bir şekilde işleyecek
   şekilde tasarlanmıştır. Kullanılan teknolojiler ve araçlar ;
 
-
+---- Springboot
 ---- JDBC
 ---- Mysql
 ---- Postman      
