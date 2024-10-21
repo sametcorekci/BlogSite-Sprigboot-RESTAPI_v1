@@ -1,15 +1,21 @@
 
 ![image alt](https://github.com/sametcorekci/BlogSite-Sprigboot-RESTAPI_v1/blob/main/springboot.png?raw=true)
 
+
 Versiyon 1 
 --------------------------------------------------------------------------------
 - Bir RESTapi oluşturuldu Ve bu API' da şunlar yapılabiliyor ;
 
 1-Kullanıcı kayıt olabiliyor
+
 2-Var olan kullanıcıyı Güncelleme - Silme işlemlerini yapabiliyor.
+
 3-Kullanıcı Post atabiliyor
+
 4-Kullanıcı Mesaj atabiliyor
+
 5-Post - Mesaj silinebiliyor
+
 6-İD ve Email ile var olan kullanıcılar üzerinde arama yapılabiliyor
 
 
