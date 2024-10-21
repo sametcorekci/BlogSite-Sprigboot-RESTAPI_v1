@@ -34,5 +34,5 @@ public class UserController {
         }
     }
 
-    // Diğer CRUD işlemleri (güncelleme, silme) burada yer alacak
+
 }
